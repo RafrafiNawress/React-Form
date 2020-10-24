@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactformm/static/css/main.222a66fa.chunk.css",
+    "main.js": "/reactformm/static/js/main.e42c08d4.chunk.js",
+    "main.js.map": "/reactformm/static/js/main.e42c08d4.chunk.js.map",
+    "runtime-main.js": "/reactformm/static/js/runtime-main.aa6f94f8.js",
+    "runtime-main.js.map": "/reactformm/static/js/runtime-main.aa6f94f8.js.map",
+    "static/js/2.71c7c133.chunk.js": "/reactformm/static/js/2.71c7c133.chunk.js",
+    "static/js/2.71c7c133.chunk.js.map": "/reactformm/static/js/2.71c7c133.chunk.js.map",
+    "index.html": "/reactformm/index.html",
+    "static/css/main.222a66fa.chunk.css.map": "/reactformm/static/css/main.222a66fa.chunk.css.map",
+    "static/js/2.71c7c133.chunk.js.LICENSE.txt": "/reactformm/static/js/2.71c7c133.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa6f94f8.js",
+    "static/js/2.71c7c133.chunk.js",
+    "static/css/main.222a66fa.chunk.css",
+    "static/js/main.e42c08d4.chunk.js"
+  ]
+}
